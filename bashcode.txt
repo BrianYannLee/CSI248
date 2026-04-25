@@ -1,0 +1,21 @@
+1.  node --version
+2.  Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+3.  npx create-expo-app --template blank
+4.  Set-Location .\my-app
+5.  npm install
+npm install dotenv
+npm install @react-navigation/stack
+npx expo install react-native-gesture-handler @react-native-masked-view/masked-view
+npm install @react-navigation/bottom-tabs
+npm install @expo/vector-icons
+npx expo install expo-splash-screen
+npx expo install expo-font
+6.  npx expo install react-dom react-native-web
+7.  npx expo install expo-status-bar
+8.  npm install @react-navigation/native
+9.  npx expo install react-native-screens react-native-safe-area-context
+10. npx expo start
+
+
+Folders
+Componenets
