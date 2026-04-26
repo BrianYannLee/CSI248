@@ -7,3 +7,6 @@
 [submodule "GuidedActivity/GA1"]
 	path = GuidedActivity/GA1
 	url = https://github.com/EmeryCSI/csi-248-ga1-intro-to-expo-BrianYannLee-1.git
+[submodule "GuidedActivity/GA2"]
+	path = GuidedActivity/GA2
+	url = https://github.com/EmeryCSI/csi-248-ga2-state-and-effect-BrianYannLee.git
