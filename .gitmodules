@@ -4,3 +4,6 @@
 [submodule "IndependentActivity/IA1"]
 	path = IndependentActivity/IA1
 	url = https://github.com/EmeryCSI/csi-248-ia1-weather-app-BrianYannLee.git
+[submodule "GuidedActivity/GA1"]
+	path = GuidedActivity/GA1
+	url = https://github.com/EmeryCSI/csi-248-ga1-intro-to-expo-BrianYannLee-1.git
