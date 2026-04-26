@@ -1,3 +1,6 @@
 [submodule "IndependentActivity/IA2"]
 	path = IndependentActivity/IA2
 	url = https://github.com/EmeryCSI/csi-248-ia2-translation-app-BrianYannLee.git
+[submodule "IndependentActivity/IA1"]
+	path = IndependentActivity/IA1
+	url = https://github.com/EmeryCSI/csi-248-ia1-weather-app-BrianYannLee.git
