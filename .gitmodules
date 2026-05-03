@@ -13,3 +13,6 @@
 [submodule "GuidedActivity/GA3"]
 	path = GuidedActivity/GA3
 	url = https://github.com/EmeryCSI/csi-248-ga3-styling-BrianYannLee.git
+[submodule "IndependentActivity/IA3"]
+	path = IndependentActivity/IA3
+	url = https://github.com/EmeryCSI/csi-248-ia3-movie-tv-app-BrianYannLee.git
