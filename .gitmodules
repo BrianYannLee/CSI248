@@ -1,0 +1,18 @@
+[submodule "IndependentActivity/IA2"]
+	path = IndependentActivity/IA2
+	url = https://github.com/EmeryCSI/csi-248-ia2-translation-app-BrianYannLee.git
+[submodule "IndependentActivity/IA1"]
+	path = IndependentActivity/IA1
+	url = https://github.com/EmeryCSI/csi-248-ia1-weather-app-BrianYannLee.git
+[submodule "GuidedActivity/GA1"]
+	path = GuidedActivity/GA1
+	url = https://github.com/EmeryCSI/csi-248-ga1-intro-to-expo-BrianYannLee-1.git
+[submodule "GuidedActivity/GA2"]
+	path = GuidedActivity/GA2
+	url = https://github.com/EmeryCSI/csi-248-ga2-state-and-effect-BrianYannLee.git
+[submodule "GuidedActivity/GA3"]
+	path = GuidedActivity/GA3
+	url = https://github.com/EmeryCSI/csi-248-ga3-styling-BrianYannLee.git
+[submodule "IndependentActivity/IA3"]
+	path = IndependentActivity/IA3
+	url = https://github.com/EmeryCSI/csi-248-ia3-movie-tv-app-BrianYannLee.git

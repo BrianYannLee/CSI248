@@ -1,0 +1,23 @@
+# Step 1: Check node version
+node --version
+
+# Step 2: Set execution policy
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+# Step 3: Create the expo app
+npx create-expo-app --template blank
+
+# Step 4: Move into the project
+Set-Location .\my-app
+
+# Step 5: Install all npm packages in one command
+npm install dotenv @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs @expo/vector-icons
+
+# Step 6: Install all expo packages in one command
+npx expo install react-native-gesture-handler @react-native-masked-view/masked-view react-native-screens react-native-safe-area-context react-dom react-native-web expo-splash-screen expo-font expo-status-bar
+
+# Step 7: Start the app
+npx expo start
+
+
+npm install @react-native-community/slider
