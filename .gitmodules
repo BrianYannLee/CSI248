@@ -16,3 +16,6 @@
 [submodule "IndependentActivity/IA3"]
 	path = IndependentActivity/IA3
 	url = https://github.com/EmeryCSI/csi-248-ia3-movie-tv-app-BrianYannLee.git
+[submodule "GuidedActivity/GA4"]
+	path = GuidedActivity/GA4
+	url = https://github.com/EmeryCSI/csi-248-ga4-memoref-BrianYannLee.git
