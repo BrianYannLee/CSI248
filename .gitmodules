@@ -22,3 +22,6 @@
 [submodule "GuidedActivity/GA5/csi-248-ga5-device-apis-BrianYannLee"]
 	path = GuidedActivity/GA5/csi-248-ga5-device-apis-BrianYannLee
 	url = https://github.com/EmeryCSI/csi-248-ga5-device-apis-BrianYannLee.git
+[submodule "GuidedActivity/GA5"]
+	path = GuidedActivity/GA5
+	url = https://github.com/EmeryCSI/csi-248-ga5-device-apis-BrianYannLee.git
