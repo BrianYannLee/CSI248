@@ -14,10 +14,10 @@ Set-Location .\my-app
 pnpm add dotenv @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs @expo/vector-icons @react-native-community/slider
 
 # Step 6: Install all expo packages
-pnpm dlx expo install react-native-gesture-handler @react-native-masked-view/masked-view react-native-screens react-native-safe-area-context react-dom react-native-web expo-splash-screen expo-font expo-status-bar
+pnpm expo install react-native-gesture-handler @react-native-masked-view/masked-view react-native-screens react-native-safe-area-context react-dom react-native-web expo-splash-screen expo-font expo-status-bar
 
 # Step 7: Start the app
-pnpm dlx expo start
+pnpm expo start
 
 
 mkdir components
